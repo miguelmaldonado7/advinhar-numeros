@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="AdvinhadorNumeros/AdvinhadorNumeros.vcxproj" Id="5d12d70b-8776-49bf-93cd-07afef446505" />
+</Solution>
